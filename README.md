@@ -1,2 +1,2 @@
-# bud-pico
+# bud-Pico
 Driver for Raspberry Pi Pico
